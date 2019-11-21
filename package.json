@@ -1,0 +1,30 @@
+{
+  "name": "e-miskpru",
+  "version": "1.0.0",
+  "description": "e-miskpru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deaw6101/e-miskpru.git"
+  },
+  "keywords": [
+    "mis"
+  ],
+  "author": "mis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deaw6101/e-miskpru/issues"
+  },
+  "homepage": "https://github.com/deaw6101/e-miskpru#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
